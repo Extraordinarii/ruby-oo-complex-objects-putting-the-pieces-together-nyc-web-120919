@@ -9,7 +9,7 @@ class Shoe
     @condition = condition
   end 
   def cobble
-    puts "Your shoe has been renewed!"
+    puts "Your shoe is as good as new!"
     new = shoe.condition
   end 
 end 
