@@ -10,5 +10,5 @@ class Shoe
   end 
   def cobble
     puts "Your shoe has been renewed!"
-    @condition()
+    new = shoe.condition
 end 
