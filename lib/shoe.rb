@@ -10,6 +10,6 @@ class Shoe
   end 
   def cobble
     puts "Your shoe is as good as new!"
-    new = brand.condition
+    condition.Shoe = condition=("new")
   end 
 end 
